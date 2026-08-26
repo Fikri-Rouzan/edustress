@@ -1,4 +1,4 @@
-# Student Stress Levels Classification
+# EduStress
 
 ## 📌 Deskripsi
 
@@ -34,8 +34,8 @@ Dataset yang digunakan dalam proyek ini bersumber dari [Kaggle: Student Stress M
 2. **Clone Repositori**
 
 ```bash
-git clone https://github.com/Fikri-Rouzan/student-stress-levels-classification.git
-cd student-stress-levels-classification
+git clone https://github.com/Fikri-Rouzan/edustress.git
+cd edustress
 ```
 
 3. **Buat Virtual Environment**
